@@ -23,7 +23,7 @@ the listings, it's the transaction: a server-enforced offer → counteroffer →
 state machine, with buyer/seller messaging unlocked only once an order exists. Express 5,
 MongoDB, Socket.IO, React 19, and three test layers — Jest/Supertest, Vitest and Playwright.
 
-**[Alfa Rent a Car](https://github.com/endritbejta/alfa-rent)**
+**[Alfa Rent a Car](https://github.com/endritbejta/alfa-rent)** · [live](https://alfa-rent.vercel.app)
 
 Car rental platform for a working business: public booking site plus an internal admin
 dashboard for vehicles, reservations and customers. Next.js 16, TypeScript, Prisma,
