@@ -7,15 +7,14 @@ Node, with four years in the Shopify ecosystem and occasional detours into nativ
 
 I was the engineer behind four production storefronts at GRENION Brands in Berlin — Banana
 Beauty, HelloBody, MyRapunzel and Sophie Rosenburg — owning them end to end in Liquid,
-TypeScript and React across three theme codebases, plus headless work with Hydrogen. Sustained
-performance work lifted Google PageSpeed scores by up to 20 points per storefront.
+TypeScript and React across three theme codebases, plus headless work with Hydrogen.
 
 Most of my day-to-day work lives in private and company repositories, so this profile is a
 partial view. The public projects are below.
 
 ## Selected work
 
-**[Shitblej](https://github.com/endritbejta/shitblej)** · [live](https://shitblej.netlify.app)
+**[Shitblej](https://github.com/endritbejta/shitblej)** · [live](https://shitblej.store)
 
 A peer-to-peer marketplace for Kosovo, where second-hand trade otherwise happens in Facebook
 groups with no search, no categories and no way to judge a seller. The interesting part isn't
