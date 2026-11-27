@@ -6,7 +6,7 @@
 <img src="assets/banner.svg" alt="Hi, I'm Endrit. I engineer commerce platforms where performance is revenue." width="100%" />
 
 <p>
-  <a href="https://endritsportfolio.netlify.app"><img src="https://img.shields.io/badge/View%20projects-e11d48?style=for-the-badge&logo=arrow-right&logoColor=white" alt="View projects" /></a>
+  <a href="https://endritsportfolio.netlify.app/#projects"><img src="https://img.shields.io/badge/View%20projects-e11d48?style=for-the-badge&logo=arrow-right&logoColor=white" alt="View projects" /></a>
   <a href="https://endritsportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-14161c?style=for-the-badge&logo=netlify&logoColor=f43f5e" alt="Portfolio" /></a>
   <a href="mailto:endrit.bejta@hotmail.com"><img src="https://img.shields.io/badge/Contact-14161c?style=for-the-badge&logo=maildotru&logoColor=f43f5e" alt="Contact" /></a>
 </p>
@@ -36,7 +36,7 @@ I came to software from electrical engineering: managing infrastructure projects
   <tr>
     <td width="50%" valign="top">
       <sub><code>2026</code></sub>
-      <h3>Shitblej</h3>
+      <h3><a href="https://shitblej.netlify.app/">Shitblej</a></h3>
       <p>A peer-to-peer marketplace for second-hand goods in Kosovo, replacing Facebook-group trading with searchable listings, graded conditions and a server-enforced offer-to-order flow.</p>
       <ul>
         <li>Offer → counteroffer → checkout → order, enforced on the server</li>
@@ -45,12 +45,11 @@ I came to software from electrical engineering: managing infrastructure projects
       <img src="https://img.shields.io/badge/React-14161c?style=flat-square&logo=react&logoColor=f43f5e" />
       <img src="https://img.shields.io/badge/Node.js-14161c?style=flat-square&logo=nodedotjs&logoColor=f43f5e" />
       <img src="https://img.shields.io/badge/Express-14161c?style=flat-square&logo=express&logoColor=f43f5e" />
-      <img src="https://img.shields.io/badge/MongoDB-14161c?style=flat-square&logo=mongodb&logoColor=f43f5e" /><br/>
-      <a href="https://endritsportfolio.netlify.app">Case study →</a>
+      <img src="https://img.shields.io/badge/MongoDB-14161c?style=flat-square&logo=mongodb&logoColor=f43f5e" />
     </td>
     <td width="50%" valign="top">
       <sub><code>2026</code></sub>
-      <h3>Alfa Rent a Car</h3>
+      <h3><a href="https://alfa-rent.vercel.app/">Alfa Rent a Car</a></h3>
       <p>A car-rental platform with a public booking site and an admin dashboard on one codebase, where the database itself rejects overlapping reservations so a car can never be double-booked.</p>
       <ul>
         <li>Fleet browsing, car details and online booking</li>
@@ -59,14 +58,13 @@ I came to software from electrical engineering: managing infrastructure projects
       <img src="https://img.shields.io/badge/Next.js-14161c?style=flat-square&logo=nextdotjs&logoColor=f43f5e" />
       <img src="https://img.shields.io/badge/TypeScript-14161c?style=flat-square&logo=typescript&logoColor=f43f5e" />
       <img src="https://img.shields.io/badge/PostgreSQL-14161c?style=flat-square&logo=postgresql&logoColor=f43f5e" />
-      <img src="https://img.shields.io/badge/Prisma-14161c?style=flat-square&logo=prisma&logoColor=f43f5e" /><br/>
-      <a href="https://endritsportfolio.netlify.app">Case study →</a>
+      <img src="https://img.shields.io/badge/Prisma-14161c?style=flat-square&logo=prisma&logoColor=f43f5e" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <sub><code>2026</code></sub>
-      <h3>WindowSwitcher</h3>
+      <h3><a href="https://github.com/endritbejta/WindowSwitcher">WindowSwitcher</a></h3>
       <p>A native macOS menu-bar app that gives Command+Tab Windows-style behaviour: every window is its own entry, in most-recently-used order, with a live thumbnail.</p>
       <ul>
         <li>Live thumbnail and app icon per window</li>
@@ -74,12 +72,11 @@ I came to software from electrical engineering: managing infrastructure projects
       </ul>
       <img src="https://img.shields.io/badge/Swift-14161c?style=flat-square&logo=swift&logoColor=f43f5e" />
       <img src="https://img.shields.io/badge/SwiftUI-14161c?style=flat-square&logo=swift&logoColor=f43f5e" />
-      <img src="https://img.shields.io/badge/macOS-14161c?style=flat-square&logo=apple&logoColor=f43f5e" /><br/>
-      <a href="https://endritsportfolio.netlify.app">Case study →</a>
+      <img src="https://img.shields.io/badge/macOS-14161c?style=flat-square&logo=apple&logoColor=f43f5e" />
     </td>
     <td width="50%" valign="top">
       <sub><code>2026</code></sub>
-      <h3>Minimalist E-commerce</h3>
+      <h3><a href="https://endrits-e-commerce.netlify.app/">Minimalist E-commerce</a></h3>
       <p>A storefront whose pricing, cart and checkout rules live in plain, unit-tested modules instead of components, so the logic can be tested without rendering anything.</p>
       <ul>
         <li>Collections, product pages, cart drawer, one-page checkout</li>
@@ -88,8 +85,7 @@ I came to software from electrical engineering: managing infrastructure projects
       <img src="https://img.shields.io/badge/React-14161c?style=flat-square&logo=react&logoColor=f43f5e" />
       <img src="https://img.shields.io/badge/Tailwind-14161c?style=flat-square&logo=tailwindcss&logoColor=f43f5e" />
       <img src="https://img.shields.io/badge/Vite-14161c?style=flat-square&logo=vite&logoColor=f43f5e" />
-      <img src="https://img.shields.io/badge/Vitest-14161c?style=flat-square&logo=vitest&logoColor=f43f5e" /><br/>
-      <a href="https://endritsportfolio.netlify.app">Case study →</a>
+      <img src="https://img.shields.io/badge/Vitest-14161c?style=flat-square&logo=vitest&logoColor=f43f5e" />
     </td>
   </tr>
 </table>
