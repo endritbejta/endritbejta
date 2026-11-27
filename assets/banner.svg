@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <radialGradient id="glow" cx="72%" cy="45%" r="55%">
+      <stop offset="0" stop-color="#f43f5e" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#f43f5e" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="2" fill="#f43f5e" fill-opacity="0.22"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.65" stop-color="#0b0c10" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0b0c10" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="#0b0c10"/>
+  <rect width="1200" height="320" fill="url(#dots)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+  <rect width="1200" height="320" fill="url(#fade)"/>
+  <rect x="48" y="44" width="44" height="44" rx="11" fill="#e11d48"/>
+  <text x="70" y="73" text-anchor="middle" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">EB</text>
+  <text x="110" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="2" fill="#8b8d94">FUSHË KOSOVË, KOSOVO  ·  4+ YEARS EXPERIENCE</text>
+  <text x="48" y="168" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="800" letter-spacing="-1.5" fill="#ecedee">Hi, I'm Endrit.</text>
+  <text x="48" y="232" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="700" letter-spacing="-0.8" fill="#8b8d94">I engineer commerce platforms where</text>
+  <text x="48" y="280" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="700" letter-spacing="-0.8" fill="#8b8d94">performance is <tspan fill="#f43f5e">revenue.</tspan></text>
+</svg>
